@@ -42,6 +42,7 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "wcnss_qmi_client.h"
 #include "mdm_detect.h"
 #endif
+#include <string.h>
 
 #define SUCCESS 0
 #define FAILED -1
